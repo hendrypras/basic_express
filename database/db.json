@@ -1,0 +1,86 @@
+{
+  "aple": {
+    "macbook": [
+      {
+        "name": "Air M1",
+        "tahun": "2020",
+        "slug": "air-m1-2020",
+        "description": "ini macbook m1"
+      },
+      {
+        "name": "Air M2",
+        "tahun": "2021",
+        "slug": "air-m1-2021",
+        "description": "ini macbook m2"
+      },
+      {
+        "name": "Air M2",
+        "tahun": "2022",
+        "slug": "air-m1-2022",
+        "description": "ini macbook m2"
+      },
+      {
+        "name": "Air M3",
+        "tahun": "2023",
+        "slug": "air-m1-2023",
+        "description": "ini macbook m3"
+      }
+    ],
+    "iphone": [
+      {
+        "name": "Iphone 12 pro mag",
+        "tahun": "2020",
+        "slug": "iphone-12-pro-mag-2020",
+        "description": "ini iphone 12 promag"
+      },
+      {
+        "name": "Iphone 13 pro mag",
+        "tahun": "2021",
+        "slug": "iphone-13-pro-mag-2021",
+        "description": "ini iphone 13 promag"
+      },
+      {
+        "name": "Iphone 14 pro mag",
+        "tahun": "2022",
+        "slug": "iphone-14-pro-mag-2022",
+        "description": "ini iphone 14 promag"
+      }
+    ]
+  },
+  "samsung": {
+    "netbook": [
+      {
+        "name": "Samsung netbook 1",
+        "tahun": "2020",
+        "slug": "samsung-netbook-1-2020",
+        "description": "ini netbook samsung 1 2020"
+      },
+      {
+        "name": "Samsung netbook 2",
+        "tahun": "2021",
+        "slug": "samsung-netbook-2-2021",
+        "description": "ini netbook samsung 2 2021"
+      },
+      {
+        "name": "Samsung netbook 3",
+        "tahun": "2022",
+        "slug": "samsung-netbook-3-2022",
+        "description": "ini netbook samsung 3 2022"
+      },
+      {
+        "name": "Samsung netbook 4",
+        "tahun": "2023",
+        "slug": "samsung-netbook-4-2023",
+        "description": "ini netbook samsung 4 2023"
+      }
+    ],
+    "phone": [
+      {
+        "slug": "samsung-gaib-2050",
+        "name": "samsung gaib",
+        "tahun": "2050",
+        "description": "ini samsung s50"
+      }
+    ]
+  }
+}
